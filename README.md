@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Pascal from Freiberg in Germany. I have studied Nanotechnology and am now a PhD Student at RWTH Aachen University and Infineon Technologies in the topic of silicon based scaleable quantum technologies. I am interested in data science and software engineering.
+I am Pascal from Freiberg in Saxony, Germany. I have studied Nanotechnology and am now a PhD Student at RWTH Aachen University and Infineon Technologies in the topic of silicon based scaleable quantum technologies. I am interested in data science and software engineering.
 
 - 🔭 I’m currently working on a *waferplot library* project.
 - 🌱 I want to learn *CI / CD within github*
